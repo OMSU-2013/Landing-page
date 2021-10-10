@@ -42,7 +42,7 @@ function Home() {
         </div>
         
       </section>
-      <section className="container mx-auto -mt-3 lg:mt-0" id="about">
+      <section className="container mx-auto -mt-1 lg:mt-0" id="about">
        <About/>
 
       </section>
