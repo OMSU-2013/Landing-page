@@ -16,7 +16,7 @@ import { events } from '../data/Event'
 function Home() {
   return (
     <main>
-      <section className="bg-mawuli-image bg-no-repeat bg-local " style={{ minHeight:'90vh'}}>
+      <section className="bg-mawuli-image bg-no-repeat bg-local " style={{ minHeight:'70vh'}}>
       <NavBar/>
 
         <div className="container mx-auto ">
