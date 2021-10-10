@@ -39,7 +39,7 @@ export default function About() {
                   <i className="fas fa-handshake text-xl"></i>
                 </div>
                 <div>
-                  <h2 className="font-bold text-black leading-relaxed text-3xl">Connect with old friends</h2>
+                  <h2 className="font-bold text-black leading-relaxed text-3xl">Find events near you</h2>
                   <p className="pt-2 font-medium text-lg text-gray-500">
                   This is the official platform for old Mawulians from the 2013 batch. The goal is to connect
                   with each other  , collaborate on projects and organize events.
@@ -54,7 +54,7 @@ export default function About() {
                   <i className="fas fa-handshake text-xl"></i>
                 </div>
                 <div>
-                  <h2 className="font-bold text-black leading-relaxed text-3xl">Connect with old friends</h2>
+                  <h2 className="font-bold text-black leading-relaxed text-3xl">Collaborate on projects</h2>
                   <p className="pt-2 font-medium text-lg text-gray-500">
                   This is the official platform for old Mawulians from the 2013 batch. The goal is to connect
                   with each other  , collaborate on projects and organize events.
@@ -69,7 +69,7 @@ export default function About() {
                   <i className="fas fa-handshake text-xl"></i>
                 </div>
                 <div>
-                  <h2 className="font-bold text-black leading-relaxed text-3xl">Connect with old friends</h2>
+                  <h2 className="font-bold text-black leading-relaxed text-3xl">Support the Alma mata</h2>
                   <p className="pt-2 font-medium text-lg text-gray-500">
                   This is the official platform for old Mawulians from the 2013 batch. The goal is to connect
                   with each other  , collaborate on projects and organize events.
