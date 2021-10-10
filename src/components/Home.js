@@ -26,7 +26,7 @@ function Home() {
 
             <h1 className="capitalize text-4xl lg:text-7xl font-bold text-gray-100">where haviwo connect !!</h1>
 
-            <p className="text-gray-100 lg:text-center font-bold text-lg leading-normal pt-4 lg:px-56">
+            <p className="text-gray-100 lg:text-center text-lg leading-normal pt-4 lg:px-56">
             This is the official platform for old Mawulians from the 2013 batch. The goal is to connect with each other  , collaborate on projects and organize events.
             </p>
 
