@@ -7,11 +7,12 @@ export default function About() {
        <div className=" flex flex-wrap pt-16 ">
           <div className="w-full ml-auto mr-auto ">
             <h2 className="font-extrabold px-4 text-4xl lg:text-6xl lg:text-justify text-black">
-            By the people you already trust 
+           People you already trust 
             </h2>
             <p className="font-normal leading-normal break-words lg:w-3/4 text-lg lg:text-justify pt-4 px-4 text-gray-500">
-            This is the official platform for old Mawulians from the 2013 batch. The goal is to connect
-            with each other  , collaborate on projects and organize events.
+            Reconnection and networking is the bedrock of personal and collective development.
+            As such, the leadership of the OMSU 2013 year group has instituted this very resourceful platform to help us reconnect,
+            brainstorm, share ideas and have fun.
             </p>
           </div>
         </div>
@@ -26,8 +27,8 @@ export default function About() {
                 <div>
                   <h2 className="font-bold text-black leading-relaxed text-3xl">Connect with old friends</h2>
                   <p className="pt-2 font-medium text-lg text-gray-500 mb-16">
-                  This is the official platform for old Mawulians from the 2013 batch. The goal is to connect
-                  with each other  , collaborate on projects and organize events.
+                  Are you interested in reconnecting with old friends? 
+                  Get interactive now
                   </p>
                 </div>
             </div>
@@ -41,8 +42,7 @@ export default function About() {
                 <div>
                   <h2 className="font-bold text-black leading-relaxed text-3xl">Find events near you</h2>
                   <p className="pt-2 font-medium text-lg text-gray-500">
-                  This is the official platform for old Mawulians from the 2013 batch. The goal is to connect
-                  with each other  , collaborate on projects and organize events.
+                  There are various events going on throughout the year. Keep up to date to discover events close to you
                   </p>
                 </div>
             </div>
@@ -56,8 +56,7 @@ export default function About() {
                 <div>
                   <h2 className="font-bold text-black leading-relaxed text-3xl">Collaborate on projects</h2>
                   <p className="pt-2 font-medium text-lg text-gray-500">
-                  This is the official platform for old Mawulians from the 2013 batch. The goal is to connect
-                  with each other  , collaborate on projects and organize events.
+                  Join hands with other colleagues to undertake and execute projects. Also, the doors are open to business collaborations.
                   </p>
                 </div>
             </div>
@@ -71,8 +70,8 @@ export default function About() {
                 <div>
                   <h2 className="font-bold text-black leading-relaxed text-3xl">Support the Alma mata</h2>
                   <p className="pt-2 font-medium text-lg text-gray-500">
-                  This is the official platform for old Mawulians from the 2013 batch. The goal is to connect
-                  with each other  , collaborate on projects and organize events.
+                  Your financial donation can help address the current needs of the Alma Mata.
+                  You can also volunteer for resource oriented initiatives. 
                   </p>
                 </div>
             </div>
