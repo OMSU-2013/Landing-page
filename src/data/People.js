@@ -1,7 +1,6 @@
-import CardImage from '../assets/oldstudent.png'
-import CardImage1  from '../assets/mcdennis.png'
-import CardImage2  from '../assets/elijah.png'
-import CardImage3  from '../assets/cyril.png'
+import CardImage1 from '../assets/preciouspng.png'
+import CardImage2  from '../assets/leona.png'
+import CardImage3  from '../assets/mcdennis.png'
 import CardImage4  from '../assets/derrick.png'
 import CardImage5  from '../assets/walas.png'
 import CardImage6  from '../assets/tsifodze.png'
@@ -11,6 +10,13 @@ import CardImage9  from '../assets/cindy.png'
 import CardImage10  from '../assets/sandy.png'
 import CardImage11  from '../assets/tukor.png'
 import CardImage12  from '../assets/loyalty.png'
+import CardImage13  from '../assets/hajia.png'
+import CardImage14  from '../assets/elijah.png'
+import CardImage15  from '../assets/lady1.png'
+import CardImage16  from '../assets/stephen.png'
+import CardImage17  from '../assets/hajia.png'
+import CardImage18  from '../assets/jay.png'
+import CardImage19  from '../assets/cyril.png'
 
 
 export const people = [
@@ -64,31 +70,31 @@ export const people = [
   },
   {
     id:13,
-    image:CardImage
+    image:CardImage13
   },
   {
     id:14,
-    image:CardImage
+    image:CardImage14
   },
   {
     id:15,
-    image:CardImage
+    image:CardImage15
   },
   {
     id:16,
-    image:CardImage
+    image:CardImage16
   },
   {
     id:17,
-    image:CardImage
+    image:CardImage17
   },
   {
     id:18,
-    image:CardImage
+    image:CardImage18
   },
   {
     id:19,
-    image:CardImage
+    image:CardImage19
   },
 
 ]

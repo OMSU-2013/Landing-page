@@ -19,7 +19,7 @@ function NavBar() {
       <div className="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
         <a href=" " className="font-bold leading-relaxed inline-block whitespace-no-wrap py-6">
 
-          <img src={logo} alt="" />
+          <img src={logo} alt="Logo" />
 
         </a>
 
