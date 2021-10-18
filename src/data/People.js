@@ -14,7 +14,7 @@ import CardImage13  from '../assets/hajia.png'
 import CardImage14  from '../assets/elijah.png'
 import CardImage15  from '../assets/lady1.png'
 import CardImage16  from '../assets/stephen.png'
-import CardImage17  from '../assets/hajia.png'
+import CardImage17  from '../assets/yvet.png'
 import CardImage18  from '../assets/jay.png'
 import CardImage19  from '../assets/cyril.png'
 
