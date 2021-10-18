@@ -7,7 +7,7 @@ export const events = [
   {
     id: 1,
     title: "Pork & sobolo meetup",
-    description: "Meet with Mawulians in Ho at Klassic Bites over some pork and drinks",
+    description: "Meet and connect with Mawulians over some pork and drinks. We are haviwo for a reason😀",
     date: "Date coming soon",
     image: CardImage // imageUrl
   },

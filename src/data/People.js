@@ -7,8 +7,10 @@ import CardImage5  from '../assets/walas.png'
 import CardImage6  from '../assets/tsifodze.png'
 import CardImage7  from '../assets/ebilly.png'
 import CardImage8  from '../assets/mcactonio.png'
-import CardImage9  from '../assets/tukor.png'
-import CardImage10  from '../assets/loyalty.png'
+import CardImage9  from '../assets/cindy.png'
+import CardImage10  from '../assets/sandy.png'
+import CardImage11  from '../assets/tukor.png'
+import CardImage12  from '../assets/loyalty.png'
 
 
 export const people = [
