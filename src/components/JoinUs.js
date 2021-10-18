@@ -10,7 +10,7 @@ function JoinUs() {
         <div className=" bg-cover h-auto bg-no-repeat lg:bg-none w-full md:w-1/2 px-4" >
           <h3 className="lg:text-justify font-extrabold text-4xl lg:text-6xl pt-16 text-black">You can join us too</h3>
           <p className="text-justify text-gray-800 lg:text-gray-500 pt-2 text-lg">
-          This is the official platform for old Mawulians from the 2013 batch. The goal is to connect with each other  , collaborate on projects and organize events.
+          Join the OMSU 2013  is to connect with each other  , collaborate on projects and organize events.
           </p>
 
           <div className=" flex justify-center lg:block pt-10 pb-10">
