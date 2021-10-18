@@ -32,7 +32,7 @@ function Home() {
 
             <div className="justify-center mt-16">
             <a href={endPoints.GOOGLE_FORM_URL} target="blank" className="font-bold text-2xl mt-10 px-12 py-3  capitalize bg-yellow border border-yellow rounded-lg text-green ">
-              <span>join now</span>
+              <span>Sign Up</span>
             </a>
             </div>
 
