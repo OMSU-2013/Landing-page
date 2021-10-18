@@ -25,8 +25,8 @@ export default function About() {
                   <i className="fas fa-user-friends text-xl"></i>
                 </div>
                 <div>
-                  <h2 className="font-bold text-black leading-relaxed text-3xl">Connect with old friends</h2>
-                  <p className="pt-2 font-medium text-lg text-gray-500 mb-16">
+                  <h2 className="font-bold text-black  text-3xl">Connect with old friends</h2>
+                  <p className="pt-2 font-medium text-lg text-gray-500 mb-12 lg:mb-16">
                   Are you interested in reconnecting with old friends? 
                   Get interactive now
                   </p>
@@ -40,8 +40,8 @@ export default function About() {
                   <i className="fas fa-calendar-week text-2xl"></i>
                 </div>
                 <div>
-                  <h2 className="font-bold text-black leading-relaxed text-3xl">Find events near you</h2>
-                  <p className="pt-2 font-medium text-lg text-gray-500">
+                  <h2 className="font-bold text-black  text-3xl">Find events near you</h2>
+                  <p className="pt-2 font-medium text-lg text-gray-500 mb-12 lg:mb-16">
                   There are various events going on throughout the year. Keep up to date to discover events close to you
                   </p>
                 </div>
@@ -54,8 +54,8 @@ export default function About() {
                   <i className="fas fa-handshake text-xl"></i>
                 </div>
                 <div>
-                  <h2 className="font-bold text-black leading-relaxed text-3xl">Collaborate on projects</h2>
-                  <p className="pt-2 font-medium text-lg text-gray-500">
+                  <h2 className="font-bold text-black  text-3xl">Collaborate on projects</h2>
+                  <p className="pt-2 font-medium text-lg text-gray-500 mb-12 lg:mb-16">
                   Join hands with other colleagues to undertake and execute projects. Also, the doors are open to business collaborations.
                   </p>
                 </div>
@@ -68,8 +68,8 @@ export default function About() {
                   <i className="fas fa-life-ring text-2xl"></i>
                 </div>
                 <div>
-                  <h2 className="font-bold text-black leading-relaxed text-3xl">Support the Alma mata</h2>
-                  <p className="pt-2 font-medium text-lg text-gray-500">
+                  <h2 className="font-bold text-black text-3xl">Support the Alma mata</h2>
+                  <p className="pt-2 font-medium text-lg text-gray-500 mb-12 lg:mb-16">
                   Your financial donation can help address the current needs of the Alma Mata.
                   You can also volunteer for resource oriented initiatives. 
                   </p>
