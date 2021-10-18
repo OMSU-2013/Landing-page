@@ -56,11 +56,11 @@ export const people = [
   },
   {
     id:11,
-    image:CardImage
+    image:CardImage11
   },
   {
     id:12,
-    image:CardImage
+    image:CardImage12
   },
   {
     id:13,
