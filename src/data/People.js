@@ -18,6 +18,7 @@ import CardImage17  from '../assets/yvet.png'
 import CardImage18  from '../assets/jay.png'
 import CardImage19  from '../assets/cyril.png'
 import CardImage20  from '../assets/lady2.png'
+import CardImage21  from '../assets/plus.png'
 
 
 export const people = [
@@ -100,6 +101,10 @@ export const people = [
   {
     id:20,
     image:CardImage20
+  },
+  {
+    id:21,
+    image:CardImage21
   },
 
 ]
