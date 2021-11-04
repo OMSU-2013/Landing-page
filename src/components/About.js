@@ -68,9 +68,9 @@ export default function About() {
                   <i className="fas fa-life-ring text-2xl"></i>
                 </div>
                 <div>
-                  <h2 className="font-bold text-black text-3xl">Support the Alma mata</h2>
+                  <h2 className="font-bold text-black text-3xl">Support the Alma Mater</h2>
                   <p className="pt-2 font-medium text-lg text-gray-500 mb-12 lg:mb-16">
-                  Your financial donation can help address the current needs of the Alma Mata.
+                  Your financial donation can help address the current needs of the Alma Mater.
                   You can also volunteer for resource oriented initiatives. 
                   </p>
                 </div>
