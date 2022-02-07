@@ -1,4 +1,4 @@
-import CardImage  from '../assets/pork.png'
+import CardImage  from '../assets/Haviwo_rekonnect.jpeg'
 import CardImage2  from '../assets/paint_sip.png'
 import CardImage3  from '../assets/spag.png'
 import CardImage4  from '../assets/xbox-vs-ps5.png'
@@ -6,9 +6,9 @@ import CardImage4  from '../assets/xbox-vs-ps5.png'
 export const events = [
   {
     id: 1,
-    title: "Pork & sobolo meetup",
-    description: "Meet and connect with Mawulians over some pork and drinks. We are haviwo for a reason😀",
-    date: "Date coming soon",
+    title: "Pork & chiil",
+    description: "Meet and connect with Mawulians over some pork and local drinks. We are haviwo for a reason😀",
+    date: "7th March,2022-3pm",
     image: CardImage // imageUrl
   },
   {
