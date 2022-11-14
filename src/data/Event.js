@@ -7,8 +7,8 @@ export const events = [
   {
     id: 1,
     title: "ONE BIG FAMILY PARTY",
-    description: "End of year party🎉, Register on:bit.ly/OMSU13onebigfamparty",
-    date: "7th March,2022-3pm",
+    description: "End of year party🎉, Register on: bit.ly/OMSU13onebigfamparty",
+    date: "2nd Dec,2022-12pm",
     image: CardImage // imageUrl
   },
   {
